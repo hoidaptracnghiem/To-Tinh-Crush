@@ -1,6 +1,8 @@
 const CONFIG = {
     introTitle: 'Khuê à!tớ, Hùng đây',
-    introDesc: `sau đây là 1 vài câu hỏi tớ muốn hỏi bạn:33, thoát ra bạn là người yêu tớ khum nói nhìu <3
+    introDesc: `sau đây là 1 vài câu hỏi tớ muốn hỏi bạn:33,
+    thoát ra bạn là người yêu tớ
+    khum nói nhìu <3
     Bắt đầu vào câu hỏi:are you ready??`,
     btnIntro: 'ok, bắt đầu',
     title: 'Bạn có thích tớ khum?? 😙',
