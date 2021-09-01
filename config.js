@@ -11,8 +11,8 @@ const CONFIG = {
     btnNo: 'Không, mơ à?? :3',
     question:'Trên thế giới hơn7 tỉ người mà sao bạn lại thích tớ <3',
     btnReply: 'Gửi cho Hòa <3',
-    reply: 'vì đối với tớ bạn đẹp trai nhất trái đất rồii <33333333333333333333333333333',
+    reply: 'vì đối với tớ bạn đẹp trai nhất trong số 7 tỷ ngườirồii <33333333333333333333333333333',
     mess: 'Tớ biết mà 🥰. tớ cũng thích bạn 😘😘',
-    messDesc: 'chúc bạn  ngày vui vẻ nha :33.',
+    messDesc: 'chúc bạn 1 ngày vui vẻ nha :33.',
     btnAccept: 'Okiiiii lun <3',
 }
